@@ -5,8 +5,7 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "dev":"node --watch index.js"
-    
+    "dev": "node --watch index.js"
   },
   "keywords": [],
   "author": "",
@@ -17,6 +16,7 @@
     "@types/node": "^24.7.0",
     "dotenv": "^17.2.3",
     "express": "~4.21.2",
+    "mongodb": "^6.20.0",
     "mongoose": "^8.19.1"
   }
 }
